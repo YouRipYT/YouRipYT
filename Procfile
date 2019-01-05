@@ -1,0 +1,1 @@
+worker: note bot.jS
